@@ -28,6 +28,30 @@ flex-wrap: wrap;
     align-items: center;    
 }
 
+.continent--north-america {
+    background-color: rgba(43, 43, 153, 0.7)
+}
+
+.continent--europe {
+    background-color: rgba(94, 16, 96, 0.7)
+}
+
+.continent--asia {
+    background-color: rgba(172, 5, 5, 0.7)
+}
+
+.continent--south-america {
+    background-color: rgba(43, 43, 153, 0.7)
+}
+
+.continent--africa {
+    background-color: rgba(235, 235, 8, 0.7);
+}
+
+.continent--australia {
+    background-color: rgba(231, 154, 10, 0.7);
+}
+
 .country {
     background: rgba(104, 103, 103, 0.5);
     width: 320px;
@@ -66,29 +90,6 @@ flex-wrap: wrap;
     margin: 0 0 0 5px;
 }
 
-.north-america {
-    background-color: rgba(43, 43, 153, 0.7)
-}
-
-.europe {
-    background-color: rgba(94, 16, 96, 0.7)
-}
-
-.asia {
-    background-color: rgba(172, 5, 5, 0.7)
-}
-
-.south-america {
-    background-color: rgba(43, 43, 153, 0.7)
-}
-
-.africa {
-    background-color: rgba(235, 235, 8, 0.7);
-}
-
-.australia {
-    background-color: rgba(231, 154, 10, 0.7);
-}
 
 
 
